@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
   async def on_ready(self):
-        print(f"Bot conectado como {self.user}")
+        print(f"Terminal Visual Estudio Codigo {self.user}")
         print("""             
   _           _                 _  
  | |         | |               | | 
